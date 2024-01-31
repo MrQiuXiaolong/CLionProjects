@@ -1,0 +1,13 @@
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/main.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day01.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day02.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day03.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day04.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day05.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day06.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day07.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day08.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day09.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/Day10.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C/CLionProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
