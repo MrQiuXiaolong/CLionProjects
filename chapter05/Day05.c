@@ -31,7 +31,7 @@ int main() {
         for (int j = 0; j < NUMBER; ++j) {
             if(strcmp(container,person[j].name)==0){
                person[j].count++;
-                break;
+               break;
             }
         }
     }
