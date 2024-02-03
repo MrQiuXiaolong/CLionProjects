@@ -82,23 +82,17 @@ build main.exe: C_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/main.c.obj
 
 build cmake_object_order_depends_target_Day01: phony || CMakeFiles/Day01.dir
 
-build CMakeFiles/Day01.dir/chapter05/Day01.c.obj: C_COMPILER__Day01_Debug E$:/C/CLionProjects/chapter05/Day01.c || cmake_object_order_depends_target_Day01
-  DEP_FILE = CMakeFiles\Day01.dir\chapter05\Day01.c.obj.d
+build CMakeFiles/Day01.dir/chapter06/Day01.c.obj: C_COMPILER__Day01_Debug E$:/C/CLionProjects/chapter06/Day01.c || cmake_object_order_depends_target_Day01
+  DEP_FILE = CMakeFiles\Day01.dir\chapter06\Day01.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\Day01.dir
-  OBJECT_FILE_DIR = CMakeFiles\Day01.dir\chapter05
+  OBJECT_FILE_DIR = CMakeFiles\Day01.dir\chapter06
 
-build CMakeFiles/Day01.dir/chapter05/Day09.c.obj: C_COMPILER__Day01_Debug E$:/C/CLionProjects/chapter05/Day09.c || cmake_object_order_depends_target_Day01
-  DEP_FILE = CMakeFiles\Day01.dir\chapter05\Day09.c.obj.d
+build CMakeFiles/Day01.dir/chapter06/Day02.c.obj: C_COMPILER__Day01_Debug E$:/C/CLionProjects/chapter06/Day02.c || cmake_object_order_depends_target_Day01
+  DEP_FILE = CMakeFiles\Day01.dir\chapter06\Day02.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\Day01.dir
-  OBJECT_FILE_DIR = CMakeFiles\Day01.dir\chapter05
-
-build CMakeFiles/Day01.dir/chapter05/Day10.c.obj: C_COMPILER__Day01_Debug E$:/C/CLionProjects/chapter05/Day10.c || cmake_object_order_depends_target_Day01
-  DEP_FILE = CMakeFiles\Day01.dir\chapter05\Day10.c.obj.d
-  FLAGS = -g -std=gnu99
-  OBJECT_DIR = CMakeFiles\Day01.dir
-  OBJECT_FILE_DIR = CMakeFiles\Day01.dir\chapter05
+  OBJECT_FILE_DIR = CMakeFiles\Day01.dir\chapter06
 
 
 # =============================================================================
@@ -108,7 +102,7 @@ build CMakeFiles/Day01.dir/chapter05/Day10.c.obj: C_COMPILER__Day01_Debug E$:/C/
 #############################################
 # Link the executable Day01.exe
 
-build Day01.exe: C_EXECUTABLE_LINKER__Day01_Debug CMakeFiles/Day01.dir/chapter05/Day01.c.obj CMakeFiles/Day01.dir/chapter05/Day09.c.obj CMakeFiles/Day01.dir/chapter05/Day10.c.obj
+build Day01.exe: C_EXECUTABLE_LINKER__Day01_Debug CMakeFiles/Day01.dir/chapter06/Day01.c.obj CMakeFiles/Day01.dir/chapter06/Day02.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Day01.dir
@@ -127,11 +121,11 @@ build Day01.exe: C_EXECUTABLE_LINKER__Day01_Debug CMakeFiles/Day01.dir/chapter05
 
 build cmake_object_order_depends_target_Day02: phony || CMakeFiles/Day02.dir
 
-build CMakeFiles/Day02.dir/chapter05/Day02.c.obj: C_COMPILER__Day02_Debug E$:/C/CLionProjects/chapter05/Day02.c || cmake_object_order_depends_target_Day02
-  DEP_FILE = CMakeFiles\Day02.dir\chapter05\Day02.c.obj.d
+build CMakeFiles/Day02.dir/chapter06/Day02.c.obj: C_COMPILER__Day02_Debug E$:/C/CLionProjects/chapter06/Day02.c || cmake_object_order_depends_target_Day02
+  DEP_FILE = CMakeFiles\Day02.dir\chapter06\Day02.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\Day02.dir
-  OBJECT_FILE_DIR = CMakeFiles\Day02.dir\chapter05
+  OBJECT_FILE_DIR = CMakeFiles\Day02.dir\chapter06
 
 
 # =============================================================================
@@ -141,7 +135,7 @@ build CMakeFiles/Day02.dir/chapter05/Day02.c.obj: C_COMPILER__Day02_Debug E$:/C/
 #############################################
 # Link the executable Day02.exe
 
-build Day02.exe: C_EXECUTABLE_LINKER__Day02_Debug CMakeFiles/Day02.dir/chapter05/Day02.c.obj
+build Day02.exe: C_EXECUTABLE_LINKER__Day02_Debug CMakeFiles/Day02.dir/chapter06/Day02.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Day02.dir

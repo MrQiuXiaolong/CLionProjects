@@ -6,8 +6,8 @@ set(CMAKE_C_STANDARD 99)
 
 
 add_executable(main main.c)
-add_executable(Day01 chapter05/Day01.c chapter05/Day09.c chapter05/Day10.c)
-add_executable(Day02 chapter05/Day02.c)
+add_executable(Day01 chapter06/Day01.c chapter06/Day02.c)
+add_executable(Day02 chapter06/Day02.c)
 add_executable(Day03 chapter05/Day03.c)
 add_executable(Day04 chapter05/Day04.c)
 add_executable(Day05 chapter05/Day05.c)
